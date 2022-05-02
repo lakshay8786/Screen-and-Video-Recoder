@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Screen-and-Video-Recoder/static/css/main.df938fc4.css",
+    "main.js": "/Screen-and-Video-Recoder/static/js/main.def7a77a.js",
+    "static/js/787.72c7bec3.chunk.js": "/Screen-and-Video-Recoder/static/js/787.72c7bec3.chunk.js",
+    "index.html": "/Screen-and-Video-Recoder/index.html",
+    "main.df938fc4.css.map": "/Screen-and-Video-Recoder/static/css/main.df938fc4.css.map",
+    "main.def7a77a.js.map": "/Screen-and-Video-Recoder/static/js/main.def7a77a.js.map",
+    "787.72c7bec3.chunk.js.map": "/Screen-and-Video-Recoder/static/js/787.72c7bec3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df938fc4.css",
+    "static/js/main.def7a77a.js"
+  ]
+}
